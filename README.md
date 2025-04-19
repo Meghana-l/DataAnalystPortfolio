@@ -124,7 +124,7 @@ The Power BI dashboard provides the Sales Manager with a clear and interactive v
 
 - Enables performance comparison among sales reps.
 
-#### Budget vs. Actual Analysis (2021)
+#### Budget vs. Actual Analysis
 
 - Visual components (bar/line charts or KPIs) compare actual sales vs. the 2021 budget.
 
