@@ -86,6 +86,9 @@ Link - https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-conf
 - Step 16 : Then, create visuals according to the Business Demand.
 
 ## Power BI Visual dashboard:
+PowerBI Services Link - https://app.powerbi.com/groups/me/reports/8a32b6f3-8264-4efb-bb87-0387a0af0c35/5679b6535dd617e489c9?experience=power-bi
+
+(* Also refer DataAnalyst_Portfolio.pbix file uploaded)
 
 ![3](https://github.com/user-attachments/assets/2c759a5d-ed3a-456b-ad7e-9eb8d395c5ae)
 
